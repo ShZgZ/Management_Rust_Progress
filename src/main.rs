@@ -1,3 +1,9 @@
+extern crate progress;
+
+use progress::hello;
+
 fn main() {
-    println!("Hello, world!");
+
+    hello::run();
 }
+
