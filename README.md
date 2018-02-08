@@ -1,5 +1,5 @@
 # Management_Rust_Progress
 
-$B?'!9$H(BRust$B4X78$NJY6/MQ(B
+色々とRust関係の勉強用
 
 ## hello.md
